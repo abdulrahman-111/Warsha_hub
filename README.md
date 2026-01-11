@@ -10,7 +10,7 @@
 
 ## ✨ Key Features
 
-* 🔗 **Social Graph Engine **: Degree of Separation, Centrality, Adjacency Matrix
+* 🔗 **Social Graph Engine**: Degree of Separation, Centrality, Adjacency Matrix
 * 📰 **Personalized Feed**: Popularity + time-decay ranking (Merge Sort)
 * 🔍 **Fast Search**: Trie-based auto-complete for usernames
 * 🤝 **Follow Recommendations**: Hybrid model (Jaccard + Cosine similarity)
